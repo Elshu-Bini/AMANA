@@ -132,7 +132,7 @@ Team size: 4. Please verify spelling and CTC IDs against the official team recor
 
 * GitHub repository: https://github.com/Elshu-Bini/AMANA
 * Five-minute video presentation: https://drive.google.com/file/d/1yAU9yT0aZiH07HcVfwO6wlXC1UpvVAm1/view?usp=sharing
-* Supplementary video presentation:https: //youtu.be/fQf5Cl7lYww
+* Supplementary video presentation: https://youtu.be/fQf5Cl7lYww
 🧭 Next steps
 * \[ ] Run the app and test core user journeys with non-sensitive test data.
 * \[ ] Run npm run build, npm run lint, and npm run typecheck; document any failures honestly.
